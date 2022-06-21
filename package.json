@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "boy-names": "^1.0.0",
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.7",
+    "ombodkhe": "^1.0.0"
+  },
+  "name": "discord-token-gen",
+  "description": "a simple discord token gen made by Oᴍ !!!#9649",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "token-gen",
+    "discord",
+    "discord-token-gen",
+    "ombodkhe",
+    "discord-tokens",
+    "tokens"
+  ],
+  "author": "Om Bodkhe",
+  "license": "ISC"
+}
