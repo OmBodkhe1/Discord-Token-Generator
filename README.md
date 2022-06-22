@@ -19,7 +19,7 @@ AntiCaptcha - https://anti-captcha.com/
 }
 ```
 
-* run **stand.bat** to generate token
+* run **start.bat** to generate token
 * Enjoy!!
 
 <br>
